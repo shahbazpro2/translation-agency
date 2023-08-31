@@ -1,0 +1,5 @@
+/* styles/globals.css */
+
+.blue-tint {
+    filter: hue-rotate(240deg) saturate(7);
+  }
